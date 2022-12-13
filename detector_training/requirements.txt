@@ -1,0 +1,12 @@
+numpy
+matplotlib
+spyder
+scikit-image
+pandas
+bayesian-optimization
+segmentation-models-pytorch
+opencv-python
+--extra-index-url https://download.pytorch.org/whl/cu117
+torch==1.13.0+cu117
+torchvision 
+torchaudio 
